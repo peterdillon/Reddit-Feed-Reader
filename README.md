@@ -1,5 +1,5 @@
 # Reddit Feed Reader Application
-Basic application built to study learn Ionic, Angular and more.
+Basic application built to study and learn Ionic, Angular and more.
 Uses the reddit feed - https://www.reddit.com/r/funny/new/.json but you can call any of their public feeds.
 Ionic allows you build applications with AngularJS and JavaScript and export as Android and IOS applications. This is very cool and exciting stuff.
 
